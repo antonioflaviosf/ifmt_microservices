@@ -1,6 +1,6 @@
 # PROJETO IFMT - MicroServices
 
-## Integrantes do Trabalho
+## Integrantes do Projeto
 
 - Antonio Flavio
 - Deivy Leão
