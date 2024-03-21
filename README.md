@@ -9,7 +9,7 @@
 - Robert Santos
 
 ## Diagrama do Projeto
-![PROJECT_DIAGRAM](https://hackmd.io/_uploads/rJVTagqAT.png)
+PROJECT_DIAGRAM.png
 
 
 ## Descrição
