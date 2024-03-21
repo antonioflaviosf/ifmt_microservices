@@ -8,10 +8,26 @@
 - Jairo Pottratz
 - Robert Santos
 
-##
+## Diagrama do Projeto
 ![PROJECT_DIAGRAM](PROJECT_DIAGRAM.png)
 
-
+## Estrutura de Pastas
+VG
+│
+├── ansible
+│   ├── playbook-grafana.yml
+│   ├── playbook-influx.yml
+│   ├── playbook-plus.yml
+│   └── playbook.yml
+│
+├── docker
+│   └── docker-compose.yaml
+│
+├── rundeck
+│   ├── data
+│   └── projects
+│
+└── Vagrantfile
 ## Descrição
 Este repositório contém configurações e scripts para implementação e gestão de um ambiente de monitoramento e automação utilizando as seguintes tecnologias:
 
