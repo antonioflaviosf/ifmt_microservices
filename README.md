@@ -1,6 +1,6 @@
 # PROJETO IFMT - MicroServices
 
-## Integrantes do Projeto
+## Integrantes
 
 - Antonio Flavio
 - Deivy Leão
@@ -8,7 +8,7 @@
 - Jairo Pottratz
 - Robert Santos
 
-## Diagrama do Projeto
+## Diagrama
 ![PROJECT_DIAGRAM](PROJECT_DIAGRAM.png)
 
 ## Estrutura de Pastas
