@@ -12,6 +12,7 @@
 ![PROJECT_DIAGRAM](PROJECT_DIAGRAM.png)
 
 ## Estrutura de Pastas
+```
 VG
 │
 ├── ansible
@@ -28,6 +29,7 @@ VG
 │   └── projects
 │
 └── Vagrantfile
+```
 ## Descrição
 Este repositório contém configurações e scripts para implementação e gestão de um ambiente de monitoramento e automação utilizando as seguintes tecnologias:
 
