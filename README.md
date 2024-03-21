@@ -9,7 +9,7 @@
 - Robert Santos
 
 ## Diagrama do Projeto
-PROJECT_DIAGRAM.png
+![PROJECT_DIAGRAM](PROJECT_DIAGRAM.png)
 
 
 ## Descrição
