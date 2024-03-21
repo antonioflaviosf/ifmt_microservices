@@ -8,7 +8,7 @@
 - Jairo Pottratz
 - Robert Santos
 
-## Diagrama do Projeto
+##
 ![PROJECT_DIAGRAM](PROJECT_DIAGRAM.png)
 
 
